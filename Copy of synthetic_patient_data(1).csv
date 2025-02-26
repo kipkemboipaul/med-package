@@ -1,0 +1,1001 @@
+﻿Name,Gender,Age,Health History,Symptom,Follow-up Questions,Diagnosis,Lab Tests,Medication
+Mutiso Cheruiyot,female,77,Diabetes,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Wambui,male,27,Malaria history,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Atieno Kibet,female,25,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",anemia,Complete Blood Count,Iron supplements
+Odhiambo Ndungu,male,3,Malaria history,vomiting,None,cold,Throat Swab,Antihistamines
+Njeri Kibet,female,35,Malaria history,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Kamau Kariuki,female,45,Hypertension,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Chebet Ndungu,male,29,No significant history,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Kimani,male,71,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Achieng Kibet,male,66,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Kibet,female,73,Malaria history,shortness of breath,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Ochieng,male,77,Anemia,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Kamau Kariuki,male,8,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",cold,Throat Swab,Antihistamines
+Atieno Kimani,male,57,None,skin rash,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Wambui,female,57,No significant history,abdominal pain,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Ndungu,male,8,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",asthma,Pulmonary Function Test,Salbutamol
+Achieng Ochieng,male,25,No significant history,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Wambui,male,8,No significant history,sore throat,None,asthma,Pulmonary Function Test,Salbutamol
+Atieno Ochieng,female,10,Anemia,shortness of breath,None,measles,None,None
+Chebet Kibet,female,12,Hypertension,dizziness,None,cold,Throat Swab,Antihistamines
+Kamau Wambui,female,12,Anemia,muscle pain,None,anemia,Complete Blood Count,Iron supplements
+Chebet Mbugua,male,41,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",malaria,Malaria Blood Smear,Coartem
+Mutiso Mutua,female,3,Diabetes,diarrhea,None,chickenpox,None,None
+Kamau Mbugua,male,11,None,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",chickenpox,None,None
+Kamau Mbugua,male,41,Hypertension,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",flu,Influenza Test,Paracetamol
+Achieng Mutua,female,39,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Kipchoge Kimani,female,34,Hypertension,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Chebet Wambui,male,55,Malaria history,muscle pain,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Ochieng,male,9,Malaria history,muscle pain,None,chickenpox,None,None
+Kamau Kimani,female,4,Anemia,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Njeri Ndungu,male,68,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Kariuki,female,53,Asthma,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",diabetes,Blood Sugar Test,Metformin
+Kipchoge Kariuki,female,35,No significant history,nausea,None,anemia,Complete Blood Count,Iron supplements
+Njeri Otieno,male,12,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",cold,Throat Swab,Antihistamines
+Mutiso Kariuki,male,70,Malaria history,dizziness,None,diabetes,Blood Sugar Test,Metformin
+Odhiambo Kariuki,female,2,Malaria history,loss of appetite,None,chickenpox,None,None
+Achieng Kimani,male,72,Arthritis,vomiting,None,prostate issues,PSA Test,Tamsulosin
+Atieno Mbugua,female,76,Asthma,loss of appetite,None,diabetes,Blood Sugar Test,Metformin
+Kamau Mutua,male,61,Hypertension,vomiting,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Ochieng,male,42,Hypertension,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Kimani,male,64,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Atieno Kimani,male,27,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",migraine,Neurological Exam,Ibuprofen
+Chebet Otieno,female,47,Hypertension,fever,"Have you experienced chills or sweating?, Have you traveled recently?",malaria,Malaria Blood Smear,Coartem
+Mutiso Kariuki,male,6,Asthma,diarrhea,None,cold,Throat Swab,Antihistamines
+Achieng Kariuki,female,21,Anemia,nausea,None,migraine,Neurological Exam,Ibuprofen
+Achieng Kimani,female,39,None,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Njeri Ochieng,female,28,Hypertension,vomiting,None,typhoid,Widal Test,Ciprofloxacin
+Wanjiku Mutua,male,21,Asthma,skin rash,None,flu,Influenza Test,Paracetamol
+Mutiso Ndungu,male,78,Diabetes,dizziness,None,hypertension,Blood Pressure Test,Amlodipine
+Chebet Ndungu,male,46,Asthma,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Kariuki,male,57,Malaria history,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mwangi Kariuki,female,78,None,nausea,None,diabetes,Blood Sugar Test,Metformin
+Atieno Ochieng,male,80,Hypertension,vomiting,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Cheruiyot,male,78,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",prostate issues,PSA Test,Tamsulosin
+Njeri Mutua,female,41,No significant history,muscle pain,None,anemia,Complete Blood Count,Iron supplements
+Kamau Kimani,female,77,Malaria history,abdominal pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Njeri Wambui,female,27,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Odhiambo Cheruiyot,male,64,Arthritis,sore throat,None,prostate issues,PSA Test,Tamsulosin
+Kamau Ndungu,male,64,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Ochieng,female,67,None,sore throat,None,osteoporosis,Bone Density Test,Calcium tablets
+Chebet Cheruiyot,female,10,Asthma,muscle pain,None,anemia,Complete Blood Count,Iron supplements
+Kipchoge Kariuki,female,34,Diabetes,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Achieng Otieno,female,76,Diabetes,sore throat,None,osteoporosis,Bone Density Test,Calcium tablets
+Mutiso Kariuki,male,12,No significant history,skin rash,None,cold,Throat Swab,Antihistamines
+Mwangi Mbugua,female,28,None,abdominal pain,None,migraine,Neurological Exam,Ibuprofen
+Chebet Kariuki,female,34,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",migraine,Neurological Exam,Ibuprofen
+Mutiso Otieno,male,13,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",flu,Influenza Test,Paracetamol
+Njeri Wambui,male,60,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Odhiambo Wambui,female,73,Hypertension,muscle pain,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Kibet,male,2,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",measles,None,None
+Odhiambo Kibet,male,5,None,muscle pain,None,asthma,Pulmonary Function Test,Salbutamol
+Mutiso Ochieng,female,78,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Achieng Otieno,female,26,Diabetes,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Kariuki,male,28,No significant history,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Wanjiku Kibet,male,35,Diabetes,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Cheruiyot,male,77,No significant history,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Njeri Wambui,male,44,Diabetes,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Achieng Otieno,male,44,Diabetes,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Mutiso Mbugua,female,33,Asthma,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Wanjiku Ndungu,female,70,No significant history,cough,"Is the cough dry or productive?, Have you had any chest pain?",diabetes,Blood Sugar Test,Metformin
+Kamau Mutua,female,45,Diabetes,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Cheruiyot,female,70,Malaria history,abdominal pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Otieno,female,69,Hypertension,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Achieng Mbugua,male,3,Asthma,loss of appetite,None,chickenpox,None,None
+Atieno Kariuki,male,68,None,skin rash,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Wambui,female,55,Diabetes,shortness of breath,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kimani,female,51,Asthma,cough,"Is the cough dry or productive?, Have you had any chest pain?",osteoporosis,Bone Density Test,Calcium tablets
+Achieng Kariuki,female,37,Arthritis,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Chebet Ochieng,male,16,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Mutiso Otieno,female,44,Arthritis,nausea,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Otieno,male,34,No significant history,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Kamau Ndungu,female,23,Arthritis,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Mutiso Otieno,male,33,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",flu,Influenza Test,Paracetamol
+Chebet Kimani,female,29,Diabetes,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Mutua,male,4,Asthma,diarrhea,None,chickenpox,None,None
+Chebet Otieno,male,28,None,nausea,None,flu,Influenza Test,Paracetamol
+Kipchoge Kariuki,male,7,No significant history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",cold,Throat Swab,Antihistamines
+Odhiambo Ndungu,male,11,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",measles,None,None
+Kipchoge Mutua,female,65,Hypertension,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Kariuki,female,5,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",cold,Throat Swab,Antihistamines
+Mwangi Kibet,female,42,Diabetes,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Chebet Mbugua,male,22,Anemia,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Atieno Ndungu,male,23,Diabetes,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Mwangi Mbugua,male,67,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",prostate issues,PSA Test,Tamsulosin
+Achieng Otieno,male,50,Anemia,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Kimani,male,63,Hypertension,dizziness,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Ndungu,male,7,Asthma,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",asthma,Pulmonary Function Test,Salbutamol
+Atieno Kibet,female,48,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Kipchoge Mutua,female,6,Asthma,cough,"Is the cough dry or productive?, Have you had any chest pain?",anemia,Complete Blood Count,Iron supplements
+Kamau Mutua,male,47,Hypertension,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Mwangi Otieno,male,62,Diabetes,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Cheruiyot,female,38,Anemia,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Kipchoge Kibet,female,56,No significant history,abdominal pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Ndungu,female,43,None,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Kamau Ndungu,female,77,Hypertension,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Mwangi Wambui,male,8,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",asthma,Pulmonary Function Test,Salbutamol
+Kipchoge Kimani,female,49,No significant history,vomiting,None,anemia,Complete Blood Count,Iron supplements
+Atieno Ochieng,female,12,Asthma,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",chickenpox,None,None
+Kipchoge Otieno,male,13,Malaria history,muscle pain,None,typhoid,Widal Test,Ciprofloxacin
+Mwangi Kariuki,female,58,No significant history,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Otieno,female,54,Hypertension,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Mutua,female,79,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",osteoporosis,Bone Density Test,Calcium tablets
+Chebet Cheruiyot,male,55,No significant history,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Wambui,male,20,Malaria history,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Atieno Wambui,female,25,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Cheruiyot,female,23,No significant history,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Achieng Wambui,male,68,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",prostate issues,PSA Test,Tamsulosin
+Chebet Otieno,male,76,No significant history,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Achieng Kimani,male,7,Arthritis,abdominal pain,None,asthma,Pulmonary Function Test,Salbutamol
+Njeri Mutua,female,48,Arthritis,nausea,None,migraine,Neurological Exam,Ibuprofen
+Atieno Wambui,male,70,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",prostate issues,PSA Test,Tamsulosin
+Chebet Cheruiyot,male,78,Hypertension,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Otieno,female,9,Asthma,nausea,None,measles,None,None
+Mutiso Kibet,female,9,No significant history,dizziness,None,chickenpox,None,None
+Mwangi Kariuki,female,22,Hypertension,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Kamau Ndungu,male,47,Malaria history,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Atieno Kimani,female,29,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Achieng Kimani,male,49,Anemia,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Kibet,female,58,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Chebet Ochieng,male,28,No significant history,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Mbugua,female,59,None,vomiting,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Ndungu,female,71,Diabetes,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",osteoporosis,Bone Density Test,Calcium tablets
+Kamau Cheruiyot,female,64,Asthma,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Mutiso Kimani,male,55,Anemia,loss of appetite,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Ochieng,male,44,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Kamau Otieno,female,24,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Kamau Kibet,female,75,Anemia,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Ndungu,male,49,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",malaria,Malaria Blood Smear,Coartem
+Kamau Cheruiyot,female,28,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Odhiambo Ochieng,male,67,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Otieno,male,29,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Atieno Mutua,male,45,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",typhoid,Widal Test,Ciprofloxacin
+Kipchoge Mutua,male,17,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",migraine,Neurological Exam,Ibuprofen
+Wanjiku Cheruiyot,female,45,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Atieno Kariuki,female,70,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Ochieng,male,34,Hypertension,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Chebet Ndungu,female,62,Arthritis,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Cheruiyot,female,38,Diabetes,diarrhea,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Kibet,male,12,Hypertension,abdominal pain,None,asthma,Pulmonary Function Test,Salbutamol
+Odhiambo Mutua,female,50,None,vomiting,None,hypertension,Blood Pressure Test,Amlodipine
+Chebet Ochieng,female,67,Hypertension,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Odhiambo Kimani,female,37,Hypertension,sore throat,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Wambui,female,18,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",typhoid,Widal Test,Ciprofloxacin
+Kamau Kimani,female,14,Asthma,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Wambui,female,75,Hypertension,nausea,None,osteoporosis,Bone Density Test,Calcium tablets
+Kipchoge Kibet,female,2,Anemia,muscle pain,None,cold,Throat Swab,Antihistamines
+Achieng Mutua,male,50,Asthma,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Kamau Ndungu,male,7,Arthritis,diarrhea,None,asthma,Pulmonary Function Test,Salbutamol
+Atieno Mutua,male,39,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Njeri Kimani,female,68,Asthma,shortness of breath,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Kimani,female,54,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Njeri Mbugua,male,17,None,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Wanjiku Ndungu,female,22,None,diarrhea,None,anemia,Complete Blood Count,Iron supplements
+Mwangi Ochieng,female,50,Diabetes,vomiting,None,osteoporosis,Bone Density Test,Calcium tablets
+Mwangi Wambui,female,62,None,skin rash,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Cheruiyot,male,17,Arthritis,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Kipchoge Ochieng,female,8,Diabetes,abdominal pain,None,measles,None,None
+Achieng Wambui,male,8,Asthma,shortness of breath,None,measles,None,None
+Chebet Cheruiyot,female,78,Hypertension,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Chebet Ochieng,male,70,Arthritis,diarrhea,None,diabetes,Blood Sugar Test,Metformin
+Wanjiku Cheruiyot,male,68,Diabetes,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Njeri Ochieng,female,73,None,cough,"Is the cough dry or productive?, Have you had any chest pain?",hypertension,Blood Pressure Test,Amlodipine
+Chebet Cheruiyot,female,30,Hypertension,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Kipchoge Kariuki,male,29,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Atieno Cheruiyot,female,53,Anemia,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Cheruiyot,male,18,Arthritis,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",flu,Influenza Test,Paracetamol
+Mutiso Ndungu,female,10,Asthma,shortness of breath,None,cold,Throat Swab,Antihistamines
+Kamau Wambui,female,48,Arthritis,nausea,None,anemia,Complete Blood Count,Iron supplements
+Njeri Ochieng,male,42,Malaria history,loss of appetite,None,flu,Influenza Test,Paracetamol
+Mutiso Ndungu,male,36,Asthma,sore throat,None,flu,Influenza Test,Paracetamol
+Njeri Kibet,male,68,Malaria history,shortness of breath,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Cheruiyot,male,72,Hypertension,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Njeri Otieno,female,0,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",cold,Throat Swab,Antihistamines
+Njeri Cheruiyot,male,49,Diabetes,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",migraine,Neurological Exam,Ibuprofen
+Kamau Kibet,female,76,Arthritis,nausea,None,osteoporosis,Bone Density Test,Calcium tablets
+Mwangi Kimani,female,61,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Achieng Kibet,male,77,Hypertension,muscle pain,None,prostate issues,PSA Test,Tamsulosin
+Odhiambo Mutua,female,12,Hypertension,vomiting,None,cold,Throat Swab,Antihistamines
+Odhiambo Kariuki,male,45,No significant history,abdominal pain,None,malaria,Malaria Blood Smear,Coartem
+Mwangi Otieno,female,62,Arthritis,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Achieng Kariuki,male,79,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",diabetes,Blood Sugar Test,Metformin
+Chebet Cheruiyot,female,39,None,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Atieno Mbugua,male,54,Arthritis,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Ndungu,male,61,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",prostate issues,PSA Test,Tamsulosin
+Achieng Kariuki,male,56,No significant history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Mutua,male,27,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Mbugua,male,2,Hypertension,abdominal pain,None,asthma,Pulmonary Function Test,Salbutamol
+Mutiso Ochieng,female,78,Hypertension,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Achieng Wambui,female,75,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Mwangi Mbugua,female,5,Arthritis,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Mutiso Wambui,female,49,Asthma,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Achieng Otieno,female,6,Asthma,dizziness,None,cold,Throat Swab,Antihistamines
+Odhiambo Wambui,male,11,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",measles,None,None
+Kamau Wambui,male,42,Anemia,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Kamau Kimani,male,48,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Kamau Kimani,female,35,Diabetes,muscle pain,None,typhoid,Widal Test,Ciprofloxacin
+Mwangi Ndungu,female,62,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",osteoporosis,Bone Density Test,Calcium tablets
+Chebet Kimani,female,44,Asthma,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Kipchoge Mbugua,female,60,Diabetes,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Njeri Otieno,male,67,Malaria history,skin rash,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Kariuki,female,36,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",migraine,Neurological Exam,Ibuprofen
+Mutiso Kimani,female,62,Diabetes,shortness of breath,None,hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Mbugua,female,62,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",arthritis,Rheumatoid Factor Test,Diclofenac
+Mwangi Mbugua,female,32,No significant history,dizziness,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Kariuki,male,72,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Kariuki,male,25,Hypertension,nausea,None,flu,Influenza Test,Paracetamol
+Kamau Wambui,female,25,Malaria history,vomiting,None,anemia,Complete Blood Count,Iron supplements
+Kipchoge Mbugua,female,0,None,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Kamau Wambui,female,17,Diabetes,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Mbugua,male,37,Asthma,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Atieno Otieno,female,64,Asthma,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Mwangi Kibet,female,32,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",malaria,Malaria Blood Smear,Coartem
+Kipchoge Otieno,male,50,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",prostate issues,PSA Test,Tamsulosin
+Kipchoge Kibet,male,1,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",chickenpox,None,None
+Atieno Mbugua,female,1,Anemia,nausea,None,chickenpox,None,None
+Chebet Mbugua,male,56,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",prostate issues,PSA Test,Tamsulosin
+Mwangi Mutua,male,67,Asthma,abdominal pain,None,prostate issues,PSA Test,Tamsulosin
+Odhiambo Kibet,female,15,Malaria history,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Otieno,male,18,Anemia,nausea,None,typhoid,Widal Test,Ciprofloxacin
+Mwangi Ndungu,male,74,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",prostate issues,PSA Test,Tamsulosin
+Kipchoge Kimani,female,56,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Mbugua,male,39,Diabetes,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Kibet,female,77,Anemia,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Wambui,male,46,None,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Chebet Kibet,male,35,Malaria history,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Ochieng,male,29,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Achieng Ndungu,female,69,Anemia,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Mwangi Kimani,female,75,None,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Chebet Kimani,male,6,Anemia,diarrhea,None,cold,Throat Swab,Antihistamines
+Mwangi Ochieng,female,49,Asthma,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Mbugua,male,80,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",hypertension,Blood Pressure Test,Amlodipine
+Kamau Cheruiyot,male,60,Diabetes,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Chebet Ndungu,female,46,Hypertension,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Mutiso Mutua,male,38,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Njeri Mbugua,male,31,Asthma,sore throat,None,flu,Influenza Test,Paracetamol
+Atieno Cheruiyot,female,50,Arthritis,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Ochieng,male,2,Asthma,abdominal pain,None,cold,Throat Swab,Antihistamines
+Chebet Kimani,female,26,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Mwangi Mutua,male,46,Asthma,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Mwangi Mutua,male,22,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Kamau Mutua,female,66,Hypertension,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Odhiambo Wambui,female,31,Asthma,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Kamau Kimani,female,56,Arthritis,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Otieno,female,4,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",anemia,Complete Blood Count,Iron supplements
+Odhiambo Kariuki,female,39,Hypertension,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Chebet Otieno,male,30,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Chebet Mbugua,male,47,Hypertension,muscle pain,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Kimani,female,50,Asthma,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Atieno Ndungu,female,43,Asthma,loss of appetite,None,anemia,Complete Blood Count,Iron supplements
+Kamau Mbugua,male,75,No significant history,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Wambui,male,79,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",hypertension,Blood Pressure Test,Amlodipine
+Mutiso Otieno,male,3,Anemia,loss of appetite,None,measles,None,None
+Mutiso Kibet,female,9,Anemia,loss of appetite,None,chickenpox,None,None
+Chebet Cheruiyot,female,52,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Atieno Mutua,female,74,Anemia,skin rash,None,osteoporosis,Bone Density Test,Calcium tablets
+Mwangi Mutua,male,8,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",chickenpox,None,None
+Chebet Ochieng,male,22,Asthma,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Otieno,male,59,Arthritis,dizziness,None,diabetes,Blood Sugar Test,Metformin
+Wanjiku Mbugua,female,10,Diabetes,muscle pain,None,measles,None,None
+Odhiambo Ochieng,male,75,Asthma,muscle pain,None,prostate issues,PSA Test,Tamsulosin
+Mutiso Ndungu,male,71,None,shortness of breath,None,hypertension,Blood Pressure Test,Amlodipine
+Kamau Kariuki,female,75,Hypertension,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Kimani,male,67,Malaria history,loss of appetite,None,diabetes,Blood Sugar Test,Metformin
+Chebet Wambui,female,12,Diabetes,dizziness,None,measles,None,None
+Kipchoge Ndungu,male,26,Asthma,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Ochieng,male,69,Diabetes,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Ndungu,female,73,Diabetes,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Atieno Otieno,female,8,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",cold,Throat Swab,Antihistamines
+Chebet Kibet,female,17,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Odhiambo Cheruiyot,male,8,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",measles,None,None
+Wanjiku Otieno,female,73,Asthma,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Kariuki,female,36,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Mwangi Mutua,female,78,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Atieno Otieno,male,75,Malaria history,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Mwangi Wambui,female,6,None,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",measles,None,None
+Kipchoge Kimani,male,54,Diabetes,loss of appetite,None,prostate issues,PSA Test,Tamsulosin
+Kamau Kibet,male,39,Asthma,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Kamau Mutua,female,53,No significant history,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Atieno Ndungu,female,36,Malaria history,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Atieno Kimani,female,3,No significant history,loss of appetite,None,cold,Throat Swab,Antihistamines
+Mwangi Otieno,female,40,Hypertension,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Kamau Kimani,female,31,Arthritis,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Kariuki,male,63,Anemia,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",prostate issues,PSA Test,Tamsulosin
+Atieno Kibet,female,1,Malaria history,loss of appetite,None,cold,Throat Swab,Antihistamines
+Mutiso Kimani,male,14,Asthma,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Wambui,male,5,Diabetes,diarrhea,None,asthma,Pulmonary Function Test,Salbutamol
+Wanjiku Mutua,male,22,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",flu,Influenza Test,Paracetamol
+Njeri Wambui,male,56,No significant history,vomiting,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Cheruiyot,female,19,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Kamau Kimani,female,67,Malaria history,abdominal pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Chebet Ndungu,female,58,None,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Wambui,female,68,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",osteoporosis,Bone Density Test,Calcium tablets
+Kamau Ndungu,male,46,Arthritis,loss of appetite,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Otieno,male,59,None,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Achieng Kibet,male,38,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Njeri Mutua,male,66,Diabetes,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Njeri Mutua,female,9,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",cold,Throat Swab,Antihistamines
+Kipchoge Kimani,female,19,Arthritis,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Chebet Cheruiyot,female,31,Diabetes,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Kipchoge Kimani,female,77,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",hypertension,Blood Pressure Test,Amlodipine
+Atieno Mbugua,male,3,Anemia,diarrhea,None,chickenpox,None,None
+Njeri Ndungu,male,37,None,nausea,None,flu,Influenza Test,Paracetamol
+Chebet Wambui,male,45,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Odhiambo Mbugua,male,71,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Atieno Kariuki,female,0,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",measles,None,None
+Atieno Ochieng,male,14,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Njeri Ochieng,female,29,Hypertension,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Mwangi Kimani,male,11,Hypertension,diarrhea,None,chickenpox,None,None
+Chebet Mutua,male,26,Diabetes,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Njeri Ndungu,female,10,No significant history,skin rash,None,cold,Throat Swab,Antihistamines
+Odhiambo Ochieng,male,46,Anemia,fever,"Have you experienced chills or sweating?, Have you traveled recently?",flu,Influenza Test,Paracetamol
+Atieno Wambui,male,67,None,vomiting,None,prostate issues,PSA Test,Tamsulosin
+Mutiso Kariuki,male,54,Hypertension,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Otieno,female,59,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Wambui,female,22,Asthma,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Mwangi Otieno,male,11,No significant history,diarrhea,None,asthma,Pulmonary Function Test,Salbutamol
+Mwangi Cheruiyot,female,5,Anemia,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",measles,None,None
+Njeri Otieno,male,30,Hypertension,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Kariuki,male,37,Diabetes,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Chebet Otieno,female,43,Malaria history,skin rash,None,anemia,Complete Blood Count,Iron supplements
+Odhiambo Ndungu,male,34,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Chebet Mbugua,male,58,Diabetes,shortness of breath,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Mbugua,male,35,Malaria history,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Mbugua,male,11,Anemia,skin rash,None,asthma,Pulmonary Function Test,Salbutamol
+Wanjiku Kimani,female,14,Malaria history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Mutua,female,32,None,nausea,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Ndungu,female,63,Anemia,dizziness,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Mutua,male,70,Hypertension,skin rash,None,hypertension,Blood Pressure Test,Amlodipine
+Mwangi Cheruiyot,female,13,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Kamau Otieno,male,11,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",chickenpox,None,None
+Kipchoge Kimani,male,35,Malaria history,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Otieno,female,72,Hypertension,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Ndungu,female,46,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Otieno,female,63,Diabetes,nausea,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Ndungu,female,16,None,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",migraine,Neurological Exam,Ibuprofen
+Atieno Kimani,male,78,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Njeri Otieno,female,61,Arthritis,vomiting,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Ndungu,female,43,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Achieng Kibet,male,61,Arthritis,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Kimani,male,14,Anemia,nausea,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Mutua,male,69,Hypertension,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",prostate issues,PSA Test,Tamsulosin
+Mutiso Ndungu,male,53,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kibet,male,77,No significant history,skin rash,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Otieno,female,77,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Kamau Ndungu,male,47,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",flu,Influenza Test,Paracetamol
+Kipchoge Wambui,female,41,Asthma,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Chebet Kimani,male,72,Malaria history,dizziness,None,prostate issues,PSA Test,Tamsulosin
+Mutiso Ndungu,male,39,None,loss of appetite,None,flu,Influenza Test,Paracetamol
+Wanjiku Mutua,male,26,Malaria history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Chebet Kibet,female,50,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",diabetes,Blood Sugar Test,Metformin
+Achieng Ndungu,male,68,Arthritis,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Mutua,female,62,Diabetes,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",diabetes,Blood Sugar Test,Metformin
+Kipchoge Mutua,female,27,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",anemia,Complete Blood Count,Iron supplements
+Wanjiku Otieno,female,49,None,abdominal pain,None,malaria,Malaria Blood Smear,Coartem
+Atieno Mbugua,male,33,Asthma,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Atieno Kariuki,female,30,No significant history,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Njeri Kimani,female,42,Hypertension,diarrhea,None,anemia,Complete Blood Count,Iron supplements
+Kipchoge Ochieng,female,37,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Achieng Kibet,male,25,Arthritis,diarrhea,None,flu,Influenza Test,Paracetamol
+Achieng Kibet,male,47,Arthritis,sore throat,None,typhoid,Widal Test,Ciprofloxacin
+Wanjiku Mbugua,female,33,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Wambui,male,11,Asthma,loss of appetite,None,chickenpox,None,None
+Chebet Kibet,female,43,Hypertension,dizziness,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Cheruiyot,female,55,Hypertension,dizziness,None,hypertension,Blood Pressure Test,Amlodipine
+Atieno Cheruiyot,male,69,Hypertension,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Odhiambo Kibet,female,12,Malaria history,abdominal pain,None,measles,None,None
+Odhiambo Mutua,male,6,Anemia,dizziness,None,measles,None,None
+Achieng Ochieng,male,3,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",asthma,Pulmonary Function Test,Salbutamol
+Kamau Mutua,female,79,Arthritis,abdominal pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Kariuki,male,57,Asthma,nausea,None,prostate issues,PSA Test,Tamsulosin
+Atieno Ochieng,male,1,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",cold,Throat Swab,Antihistamines
+Njeri Otieno,female,39,Hypertension,loss of appetite,None,anemia,Complete Blood Count,Iron supplements
+Kamau Mutua,female,24,None,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Otieno,female,53,None,skin rash,None,hypertension,Blood Pressure Test,Amlodipine
+Kamau Otieno,female,73,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Mutiso Ochieng,male,76,Arthritis,muscle pain,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Ochieng,female,36,Diabetes,nausea,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Ndungu,female,55,Asthma,diarrhea,None,osteoporosis,Bone Density Test,Calcium tablets
+Kipchoge Mutua,female,12,Anemia,fever,"Have you experienced chills or sweating?, Have you traveled recently?",measles,None,None
+Chebet Ndungu,male,79,None,vomiting,None,prostate issues,PSA Test,Tamsulosin
+Atieno Wambui,male,20,No significant history,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Kariuki,male,64,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Chebet Mutua,female,51,Anemia,diarrhea,None,diabetes,Blood Sugar Test,Metformin
+Achieng Mutua,male,4,Asthma,vomiting,None,asthma,Pulmonary Function Test,Salbutamol
+Njeri Mbugua,male,57,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Wambui,male,12,No significant history,muscle pain,None,chickenpox,None,None
+Odhiambo Kariuki,male,76,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Achieng Kariuki,female,43,Malaria history,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Kibet,male,65,None,dizziness,None,prostate issues,PSA Test,Tamsulosin
+Njeri Mutua,female,26,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Atieno Otieno,female,58,Asthma,skin rash,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Wambui,female,63,Arthritis,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Odhiambo Mutua,female,40,No significant history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",migraine,Neurological Exam,Ibuprofen
+Mwangi Mutua,male,80,Arthritis,muscle pain,None,prostate issues,PSA Test,Tamsulosin
+Atieno Kariuki,female,14,None,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Kipchoge Cheruiyot,female,44,Diabetes,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Chebet Wambui,male,41,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",malaria,Malaria Blood Smear,Coartem
+Atieno Mutua,male,10,No significant history,shortness of breath,None,cold,Throat Swab,Antihistamines
+Kamau Kimani,male,31,Diabetes,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",migraine,Neurological Exam,Ibuprofen
+Odhiambo Cheruiyot,female,2,Asthma,cough,"Is the cough dry or productive?, Have you had any chest pain?",anemia,Complete Blood Count,Iron supplements
+Achieng Kariuki,male,43,Anemia,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Mutua,female,58,Hypertension,muscle pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Ndungu,male,24,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Otieno,male,73,Diabetes,dizziness,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Kimani,male,71,None,abdominal pain,None,prostate issues,PSA Test,Tamsulosin
+Mwangi Kimani,male,23,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",flu,Influenza Test,Paracetamol
+Njeri Wambui,female,11,Asthma,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",cold,Throat Swab,Antihistamines
+Kamau Kibet,male,46,No significant history,sore throat,None,flu,Influenza Test,Paracetamol
+Mutiso Ochieng,male,69,No significant history,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Wanjiku Otieno,male,68,No significant history,abdominal pain,None,prostate issues,PSA Test,Tamsulosin
+Kipchoge Ochieng,male,9,No significant history,loss of appetite,None,asthma,Pulmonary Function Test,Salbutamol
+Atieno Kariuki,male,51,No significant history,abdominal pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Mbugua,female,42,Malaria history,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Atieno Kibet,female,79,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Kibet,male,58,Malaria history,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Njeri Mutua,female,39,No significant history,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Wambui,male,49,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",malaria,Malaria Blood Smear,Coartem
+Achieng Kibet,female,21,Asthma,nausea,None,anemia,Complete Blood Count,Iron supplements
+Atieno Otieno,female,52,Hypertension,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Mbugua,male,67,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",hypertension,Blood Pressure Test,Amlodipine
+Atieno Kibet,male,4,Asthma,skin rash,None,measles,None,None
+Njeri Kariuki,female,30,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",anemia,Complete Blood Count,Iron supplements
+Wanjiku Ndungu,female,14,Anemia,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Atieno Kibet,female,43,No significant history,nausea,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Mutua,male,52,Anemia,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Wanjiku Kariuki,female,68,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",diabetes,Blood Sugar Test,Metformin
+Atieno Mbugua,female,60,Diabetes,muscle pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Achieng Kimani,female,40,Diabetes,loss of appetite,None,typhoid,Widal Test,Ciprofloxacin
+Njeri Otieno,male,26,No significant history,vomiting,None,flu,Influenza Test,Paracetamol
+Njeri Cheruiyot,female,14,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Atieno Wambui,male,43,Anemia,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Achieng Cheruiyot,male,55,Malaria history,dizziness,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Mbugua,female,14,Malaria history,muscle pain,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Wambui,female,44,No significant history,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Kamau Kariuki,male,45,Asthma,nausea,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Kimani,female,35,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",typhoid,Widal Test,Ciprofloxacin
+Atieno Cheruiyot,male,75,Anemia,skin rash,None,prostate issues,PSA Test,Tamsulosin
+Mutiso Mutua,female,64,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Otieno,male,69,Diabetes,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Ndungu,male,67,Hypertension,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Atieno Kimani,male,21,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Atieno Wambui,female,23,No significant history,vomiting,None,typhoid,Widal Test,Ciprofloxacin
+Mwangi Mutua,male,75,Arthritis,skin rash,None,hypertension,Blood Pressure Test,Amlodipine
+Kamau Kimani,female,28,Malaria history,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Achieng Kariuki,female,66,Diabetes,sore throat,None,osteoporosis,Bone Density Test,Calcium tablets
+Atieno Cheruiyot,female,21,No significant history,loss of appetite,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Mutua,male,76,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Wambui,male,52,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",diabetes,Blood Sugar Test,Metformin
+Odhiambo Mbugua,male,44,Anemia,loss of appetite,None,flu,Influenza Test,Paracetamol
+Njeri Kimani,male,34,Asthma,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Kamau Kibet,female,57,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",osteoporosis,Bone Density Test,Calcium tablets
+Mutiso Ochieng,female,24,No significant history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Achieng Cheruiyot,male,17,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Otieno,male,30,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Kipchoge Mutua,male,40,Arthritis,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Wanjiku Ochieng,male,16,Arthritis,nausea,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Ndungu,male,35,Hypertension,abdominal pain,None,migraine,Neurological Exam,Ibuprofen
+Njeri Cheruiyot,female,76,Asthma,loss of appetite,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Cheruiyot,male,12,Malaria history,vomiting,None,chickenpox,None,None
+Wanjiku Mutua,male,50,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Cheruiyot,male,17,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",flu,Influenza Test,Paracetamol
+Atieno Ochieng,male,32,Hypertension,abdominal pain,None,migraine,Neurological Exam,Ibuprofen
+Kipchoge Mbugua,male,68,Anemia,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Cheruiyot,male,71,Malaria history,shortness of breath,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Cheruiyot,male,17,No significant history,diarrhea,None,typhoid,Widal Test,Ciprofloxacin
+Njeri Otieno,male,68,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",prostate issues,PSA Test,Tamsulosin
+Kipchoge Kibet,male,62,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",prostate issues,PSA Test,Tamsulosin
+Mutiso Kariuki,female,52,Anemia,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Kariuki,male,57,Anemia,abdominal pain,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Cheruiyot,female,48,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",typhoid,Widal Test,Ciprofloxacin
+Wanjiku Ochieng,male,69,Anemia,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Wanjiku Kariuki,male,4,None,nausea,None,asthma,Pulmonary Function Test,Salbutamol
+Kipchoge Kariuki,male,72,Hypertension,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Kamau Kimani,female,53,Asthma,dizziness,None,osteoporosis,Bone Density Test,Calcium tablets
+Njeri Kimani,female,47,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Odhiambo Otieno,male,42,No significant history,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Kariuki,male,17,Anemia,muscle pain,None,flu,Influenza Test,Paracetamol
+Kamau Kibet,male,74,Arthritis,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Otieno,female,49,Hypertension,nausea,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Cheruiyot,female,51,No significant history,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Atieno Kibet,female,59,Hypertension,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Mutiso Ndungu,female,54,Asthma,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Mwangi Otieno,male,34,Hypertension,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Wanjiku Otieno,female,25,Hypertension,vomiting,None,typhoid,Widal Test,Ciprofloxacin
+Achieng Mbugua,male,47,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Mutiso Wambui,male,45,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Ndungu,female,56,None,loss of appetite,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Wambui,male,72,Anemia,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kimani,male,18,Malaria history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Chebet Kibet,female,48,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Achieng Wambui,male,56,Diabetes,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kimani,female,51,Malaria history,diarrhea,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Wambui,female,9,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",chickenpox,None,None
+Odhiambo Kibet,female,42,Arthritis,diarrhea,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Mbugua,male,74,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",prostate issues,PSA Test,Tamsulosin
+Odhiambo Mutua,female,62,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Achieng Mutua,male,46,Asthma,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Mwangi Cheruiyot,male,19,Malaria history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Ndungu,female,5,Anemia,muscle pain,None,chickenpox,None,None
+Achieng Ndungu,female,35,None,diarrhea,None,anemia,Complete Blood Count,Iron supplements
+Odhiambo Mutua,female,53,Diabetes,abdominal pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Kipchoge Wambui,male,17,Asthma,abdominal pain,None,flu,Influenza Test,Paracetamol
+Njeri Ndungu,male,75,Asthma,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",prostate issues,PSA Test,Tamsulosin
+Chebet Otieno,male,36,Diabetes,nausea,None,malaria,Malaria Blood Smear,Coartem
+Achieng Mbugua,female,5,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",chickenpox,None,None
+Achieng Cheruiyot,male,41,None,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Mutiso Kibet,female,50,Arthritis,skin rash,None,osteoporosis,Bone Density Test,Calcium tablets
+Achieng Kibet,female,65,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",diabetes,Blood Sugar Test,Metformin
+Mwangi Cheruiyot,male,74,None,abdominal pain,None,prostate issues,PSA Test,Tamsulosin
+Kamau Ndungu,female,71,Diabetes,muscle pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Mutua,male,15,Anemia,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Wanjiku Ochieng,male,51,Anemia,muscle pain,None,hypertension,Blood Pressure Test,Amlodipine
+Njeri Ochieng,male,20,Diabetes,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Mwangi Otieno,male,53,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Kimani,female,11,Hypertension,abdominal pain,None,measles,None,None
+Odhiambo Kimani,male,12,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",asthma,Pulmonary Function Test,Salbutamol
+Mwangi Mbugua,male,56,Diabetes,shortness of breath,None,prostate issues,PSA Test,Tamsulosin
+Chebet Cheruiyot,male,57,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",prostate issues,PSA Test,Tamsulosin
+Kipchoge Otieno,female,62,Anemia,nausea,None,osteoporosis,Bone Density Test,Calcium tablets
+Chebet Wambui,male,70,Arthritis,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Kimani,male,70,Asthma,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Atieno Ochieng,female,67,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Mutiso Wambui,female,37,None,shortness of breath,None,anemia,Complete Blood Count,Iron supplements
+Wanjiku Kimani,female,64,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Njeri Mbugua,female,47,Anemia,skin rash,None,anemia,Complete Blood Count,Iron supplements
+Chebet Kimani,female,20,Malaria history,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Atieno Kibet,female,17,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",anemia,Complete Blood Count,Iron supplements
+Odhiambo Mutua,female,31,No significant history,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Atieno Mutua,female,9,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",cold,Throat Swab,Antihistamines
+Atieno Wambui,male,35,None,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Otieno,female,40,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",anemia,Complete Blood Count,Iron supplements
+Atieno Kibet,female,53,Asthma,diarrhea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kibet,female,29,Malaria history,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Mutiso Kariuki,male,73,Hypertension,abdominal pain,None,prostate issues,PSA Test,Tamsulosin
+Atieno Mbugua,male,50,Malaria history,nausea,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Ndungu,female,58,Anemia,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Kariuki,male,21,Malaria history,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Atieno Mbugua,male,40,Diabetes,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Kipchoge Kimani,male,57,Anemia,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Cheruiyot,female,69,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Kimani,male,31,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Mwangi Otieno,male,30,None,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Njeri Ndungu,male,10,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",cold,Throat Swab,Antihistamines
+Wanjiku Otieno,female,0,Hypertension,nausea,None,chickenpox,None,None
+Atieno Mutua,female,24,Anemia,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Mutua,female,56,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Otieno,male,78,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",hypertension,Blood Pressure Test,Amlodipine
+Atieno Mutua,female,25,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",typhoid,Widal Test,Ciprofloxacin
+Chebet Kibet,female,65,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Mutua,male,77,Arthritis,abdominal pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Kariuki,female,58,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Mutua,male,53,Asthma,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Otieno,male,51,Malaria history,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Wambui,female,13,Arthritis,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Njeri Wambui,female,20,Asthma,vomiting,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Wambui,male,52,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",diabetes,Blood Sugar Test,Metformin
+Mwangi Otieno,female,77,None,sore throat,None,osteoporosis,Bone Density Test,Calcium tablets
+Mwangi Kariuki,female,15,No significant history,dizziness,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Cheruiyot,female,14,No significant history,nausea,None,anemia,Complete Blood Count,Iron supplements
+Odhiambo Kibet,female,71,Malaria history,dizziness,None,osteoporosis,Bone Density Test,Calcium tablets
+Njeri Mbugua,male,77,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",prostate issues,PSA Test,Tamsulosin
+Kamau Cheruiyot,male,66,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",prostate issues,PSA Test,Tamsulosin
+Kamau Wambui,female,49,None,vomiting,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Kariuki,female,67,Asthma,loss of appetite,None,osteoporosis,Bone Density Test,Calcium tablets
+Achieng Ochieng,male,36,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Wanjiku Kimani,male,10,Malaria history,diarrhea,None,cold,Throat Swab,Antihistamines
+Atieno Kimani,male,4,Arthritis,vomiting,None,asthma,Pulmonary Function Test,Salbutamol
+Mutiso Cheruiyot,female,27,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Chebet Ndungu,female,22,Anemia,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Achieng Mutua,male,4,Hypertension,abdominal pain,None,chickenpox,None,None
+Mwangi Kimani,male,17,Arthritis,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Ndungu,male,35,Arthritis,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Kariuki,female,32,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Wanjiku Otieno,female,20,Asthma,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Kimani,female,29,Anemia,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Ochieng,female,35,Malaria history,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Cheruiyot,female,27,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",anemia,Complete Blood Count,Iron supplements
+Kamau Kibet,female,37,No significant history,muscle pain,None,anemia,Complete Blood Count,Iron supplements
+Njeri Wambui,female,33,Asthma,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Atieno Kibet,male,35,No significant history,vomiting,None,migraine,Neurological Exam,Ibuprofen
+Chebet Kibet,male,45,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Achieng Ochieng,male,62,Anemia,shortness of breath,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Mbugua,male,4,Anemia,sore throat,None,asthma,Pulmonary Function Test,Salbutamol
+Njeri Kimani,female,13,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Kamau Otieno,female,4,Anemia,shortness of breath,None,anemia,Complete Blood Count,Iron supplements
+Odhiambo Mbugua,female,68,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Atieno Kibet,male,7,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",cold,Throat Swab,Antihistamines
+Atieno Kariuki,female,65,Anemia,nausea,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Ochieng,male,18,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Atieno Ndungu,male,3,Hypertension,vomiting,None,chickenpox,None,None
+Kipchoge Ochieng,female,3,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",anemia,Complete Blood Count,Iron supplements
+Mwangi Kariuki,male,25,Hypertension,nausea,None,malaria,Malaria Blood Smear,Coartem
+Kamau Cheruiyot,male,21,Asthma,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Achieng Wambui,female,15,None,cough,"Is the cough dry or productive?, Have you had any chest pain?",anemia,Complete Blood Count,Iron supplements
+Achieng Wambui,female,78,Arthritis,sore throat,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Cheruiyot,female,21,Hypertension,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Ndungu,female,53,None,abdominal pain,None,hypertension,Blood Pressure Test,Amlodipine
+Njeri Kimani,female,9,Hypertension,skin rash,None,measles,None,None
+Mwangi Ndungu,male,78,Arthritis,shortness of breath,None,hypertension,Blood Pressure Test,Amlodipine
+Kamau Kimani,female,80,No significant history,nausea,None,diabetes,Blood Sugar Test,Metformin
+Njeri Cheruiyot,male,4,None,cough,"Is the cough dry or productive?, Have you had any chest pain?",cold,Throat Swab,Antihistamines
+Mutiso Kariuki,male,2,Diabetes,diarrhea,None,cold,Throat Swab,Antihistamines
+Njeri Wambui,female,20,Arthritis,vomiting,None,anemia,Complete Blood Count,Iron supplements
+Wanjiku Kimani,female,65,None,cough,"Is the cough dry or productive?, Have you had any chest pain?",osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Cheruiyot,male,29,Arthritis,nausea,None,malaria,Malaria Blood Smear,Coartem
+Kamau Kimani,female,18,Arthritis,vomiting,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Kibet,female,54,Diabetes,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Achieng Mutua,male,46,Malaria history,abdominal pain,None,flu,Influenza Test,Paracetamol
+Chebet Mutua,female,31,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",migraine,Neurological Exam,Ibuprofen
+Achieng Kimani,male,53,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Mutiso Wambui,male,1,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",cold,Throat Swab,Antihistamines
+Mwangi Kimani,female,56,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Kamau Kariuki,female,42,None,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Mutua,male,36,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Achieng Mbugua,female,70,Asthma,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Njeri Kibet,male,4,No significant history,loss of appetite,None,cold,Throat Swab,Antihistamines
+Wanjiku Kibet,male,21,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Chebet Cheruiyot,female,12,Malaria history,dizziness,None,measles,None,None
+Chebet Kariuki,male,28,None,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Kimani,female,50,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Achieng Mbugua,female,30,Asthma,abdominal pain,None,malaria,Malaria Blood Smear,Coartem
+Njeri Cheruiyot,female,15,None,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Kipchoge Kariuki,male,6,No significant history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",asthma,Pulmonary Function Test,Salbutamol
+Kamau Ochieng,female,23,Malaria history,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Mbugua,female,0,Asthma,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Njeri Cheruiyot,female,38,No significant history,sore throat,None,migraine,Neurological Exam,Ibuprofen
+Chebet Ndungu,female,57,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",diabetes,Blood Sugar Test,Metformin
+Chebet Kariuki,male,8,No significant history,cough,"Is the cough dry or productive?, Have you had any chest pain?",asthma,Pulmonary Function Test,Salbutamol
+Kipchoge Mbugua,male,56,Anemia,skin rash,None,diabetes,Blood Sugar Test,Metformin
+Njeri Kariuki,female,69,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Otieno,male,49,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",flu,Influenza Test,Paracetamol
+Mutiso Kibet,female,2,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",cold,Throat Swab,Antihistamines
+Odhiambo Kariuki,male,33,None,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",flu,Influenza Test,Paracetamol
+Mutiso Mutua,female,39,No significant history,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Kamau Wambui,female,35,Hypertension,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Kamau Mbugua,male,39,Anemia,muscle pain,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Kariuki,female,24,Malaria history,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Ochieng,male,24,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",flu,Influenza Test,Paracetamol
+Mutiso Ochieng,female,27,Diabetes,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Mwangi Wambui,male,28,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",flu,Influenza Test,Paracetamol
+Atieno Cheruiyot,male,65,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Otieno,female,24,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Odhiambo Mutua,male,53,No significant history,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Kamau Kariuki,female,13,Malaria history,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Ochieng,male,63,Malaria history,dizziness,None,prostate issues,PSA Test,Tamsulosin
+Odhiambo Cheruiyot,male,4,Malaria history,skin rash,None,chickenpox,None,None
+Chebet Otieno,male,76,Hypertension,nausea,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Kimani,female,78,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kariuki,female,40,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",migraine,Neurological Exam,Ibuprofen
+Achieng Ochieng,female,36,Hypertension,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Achieng Ndungu,male,11,No significant history,nausea,None,asthma,Pulmonary Function Test,Salbutamol
+Kipchoge Otieno,male,21,Diabetes,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Chebet Cheruiyot,male,45,Asthma,skin rash,None,flu,Influenza Test,Paracetamol
+Kipchoge Kimani,female,80,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Mwangi Mutua,male,4,Diabetes,sore throat,None,chickenpox,None,None
+Kipchoge Otieno,male,10,Arthritis,muscle pain,None,chickenpox,None,None
+Mwangi Mbugua,male,57,No significant history,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Achieng Cheruiyot,male,42,None,nausea,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Kimani,male,71,Asthma,nausea,None,prostate issues,PSA Test,Tamsulosin
+Mwangi Ochieng,female,78,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Njeri Kimani,male,20,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",malaria,Malaria Blood Smear,Coartem
+Achieng Mutua,female,33,Arthritis,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Achieng Kibet,male,40,None,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",flu,Influenza Test,Paracetamol
+Atieno Kibet,female,46,Malaria history,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Otieno,female,1,No significant history,skin rash,None,cold,Throat Swab,Antihistamines
+Mwangi Kimani,female,33,None,loss of appetite,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Otieno,male,63,Diabetes,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Achieng Wambui,male,74,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",prostate issues,PSA Test,Tamsulosin
+Mutiso Kimani,female,64,Malaria history,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mwangi Ndungu,male,22,Asthma,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Mutiso Cheruiyot,female,45,Asthma,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Odhiambo Cheruiyot,male,38,No significant history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Wanjiku Wambui,male,75,Hypertension,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Mbugua,female,52,None,vomiting,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kibet,female,52,Hypertension,diarrhea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Otieno,female,54,Anemia,dizziness,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Kibet,female,71,Hypertension,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Kamau Wambui,male,71,Asthma,cough,"Is the cough dry or productive?, Have you had any chest pain?",hypertension,Blood Pressure Test,Amlodipine
+Chebet Wambui,female,27,None,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Njeri Kibet,male,7,Asthma,diarrhea,None,cold,Throat Swab,Antihistamines
+Mutiso Wambui,male,41,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",flu,Influenza Test,Paracetamol
+Mutiso Wambui,female,25,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Atieno Ochieng,male,46,Hypertension,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Njeri Kibet,female,30,No significant history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Ochieng,female,59,Anemia,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Chebet Cheruiyot,female,25,Arthritis,dizziness,None,malaria,Malaria Blood Smear,Coartem
+Kamau Kibet,male,70,Malaria history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",arthritis,Rheumatoid Factor Test,Diclofenac
+Chebet Cheruiyot,female,32,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",anemia,Complete Blood Count,Iron supplements
+Odhiambo Kimani,female,29,Diabetes,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Otieno,male,17,Diabetes,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Atieno Wambui,male,9,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",cold,Throat Swab,Antihistamines
+Chebet Mbugua,female,80,Arthritis,loss of appetite,None,osteoporosis,Bone Density Test,Calcium tablets
+Kamau Kimani,male,56,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Mwangi Mutua,female,41,Arthritis,skin rash,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Wambui,female,31,Malaria history,diarrhea,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Cheruiyot,female,20,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",anemia,Complete Blood Count,Iron supplements
+Odhiambo Wambui,male,19,Malaria history,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Wambui,female,66,Anemia,loss of appetite,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Ochieng,female,46,No significant history,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Chebet Kimani,male,78,Arthritis,abdominal pain,None,hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Mutua,male,16,Diabetes,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Mutua,female,33,None,diarrhea,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Cheruiyot,male,50,Arthritis,sore throat,None,diabetes,Blood Sugar Test,Metformin
+Wanjiku Otieno,female,1,No significant history,nausea,None,measles,None,None
+Mwangi Ndungu,female,61,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Kibet,male,78,No significant history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",diabetes,Blood Sugar Test,Metformin
+Njeri Wambui,female,14,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Atieno Kibet,male,20,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Kamau Ochieng,male,55,Arthritis,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",hypertension,Blood Pressure Test,Amlodipine
+Atieno Cheruiyot,female,18,Arthritis,dizziness,None,anemia,Complete Blood Count,Iron supplements
+Njeri Otieno,female,4,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",measles,None,None
+Wanjiku Mutua,female,71,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Chebet Cheruiyot,male,39,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Achieng Mutua,female,48,No significant history,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Mutiso Ndungu,female,29,No significant history,sore throat,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Wambui,male,13,Malaria history,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Kibet,female,48,Hypertension,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Atieno Cheruiyot,male,27,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",flu,Influenza Test,Paracetamol
+Kipchoge Mutua,male,15,Malaria history,nausea,None,malaria,Malaria Blood Smear,Coartem
+Achieng Ochieng,female,16,Anemia,nausea,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Otieno,female,35,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",typhoid,Widal Test,Ciprofloxacin
+Kamau Kariuki,male,49,Arthritis,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Mutua,female,45,None,abdominal pain,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Wambui,female,70,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Mutiso Kariuki,female,2,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",cold,Throat Swab,Antihistamines
+Kipchoge Wambui,female,13,None,loss of appetite,None,anemia,Complete Blood Count,Iron supplements
+Achieng Kimani,male,6,None,dizziness,None,cold,Throat Swab,Antihistamines
+Kamau Mbugua,female,36,Malaria history,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Kamau Kibet,male,4,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",asthma,Pulmonary Function Test,Salbutamol
+Kamau Kibet,male,45,Anemia,vomiting,None,flu,Influenza Test,Paracetamol
+Chebet Kibet,female,38,Asthma,cough,"Is the cough dry or productive?, Have you had any chest pain?",anemia,Complete Blood Count,Iron supplements
+Kamau Ndungu,female,62,Diabetes,dizziness,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Wambui,male,14,Diabetes,skin rash,None,flu,Influenza Test,Paracetamol
+Atieno Otieno,female,31,Diabetes,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Odhiambo Cheruiyot,female,38,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",migraine,Neurological Exam,Ibuprofen
+Achieng Mbugua,male,66,Arthritis,diarrhea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Mbugua,male,67,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Njeri Otieno,male,43,Anemia,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",malaria,Malaria Blood Smear,Coartem
+Mwangi Mbugua,male,28,Diabetes,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Njeri Ndungu,female,59,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Ochieng,female,37,Diabetes,vomiting,None,malaria,Malaria Blood Smear,Coartem
+Atieno Ndungu,male,71,No significant history,nausea,None,hypertension,Blood Pressure Test,Amlodipine
+Kamau Kariuki,female,33,Hypertension,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Otieno,female,22,Diabetes,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Njeri Kibet,female,23,Malaria history,muscle pain,None,anemia,Complete Blood Count,Iron supplements
+Kipchoge Mutua,female,6,Hypertension,shortness of breath,None,cold,Throat Swab,Antihistamines
+Wanjiku Kibet,male,32,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",flu,Influenza Test,Paracetamol
+Kipchoge Wambui,female,34,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Mutiso Kimani,male,71,Hypertension,loss of appetite,None,prostate issues,PSA Test,Tamsulosin
+Odhiambo Mutua,female,16,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Wambui,female,15,Hypertension,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Achieng Cheruiyot,male,50,Asthma,sore throat,None,prostate issues,PSA Test,Tamsulosin
+Njeri Mbugua,male,39,None,diarrhea,None,malaria,Malaria Blood Smear,Coartem
+Kipchoge Ndungu,female,38,None,loss of appetite,None,anemia,Complete Blood Count,Iron supplements
+Wanjiku Kimani,female,71,Hypertension,diarrhea,None,diabetes,Blood Sugar Test,Metformin
+Kamau Ndungu,male,14,No significant history,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Wambui,female,56,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",osteoporosis,Bone Density Test,Calcium tablets
+Achieng Kimani,female,51,Hypertension,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Wambui,male,54,Malaria history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",diabetes,Blood Sugar Test,Metformin
+Kipchoge Wambui,male,12,Malaria history,muscle pain,None,asthma,Pulmonary Function Test,Salbutamol
+Njeri Wambui,male,58,None,shortness of breath,None,prostate issues,PSA Test,Tamsulosin
+Atieno Mbugua,male,24,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Njeri Ochieng,male,26,Arthritis,vomiting,None,flu,Influenza Test,Paracetamol
+Mutiso Ndungu,male,55,Anemia,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Mbugua,female,50,No significant history,muscle pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Chebet Kibet,male,55,None,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Kariuki,male,73,Diabetes,dizziness,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Kibet,female,78,Diabetes,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Mutua,female,70,Asthma,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Achieng Otieno,female,70,No significant history,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Njeri Kariuki,male,36,Asthma,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Odhiambo Mbugua,female,67,Arthritis,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Kariuki,male,79,Arthritis,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Ochieng,female,53,None,shortness of breath,None,diabetes,Blood Sugar Test,Metformin
+Kipchoge Kibet,male,68,Diabetes,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",prostate issues,PSA Test,Tamsulosin
+Chebet Ochieng,male,25,None,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Otieno,male,31,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",flu,Influenza Test,Paracetamol
+Mutiso Kariuki,female,75,Hypertension,skin rash,None,osteoporosis,Bone Density Test,Calcium tablets
+Achieng Mutua,male,62,Hypertension,muscle pain,None,prostate issues,PSA Test,Tamsulosin
+Chebet Mbugua,female,26,None,muscle pain,None,malaria,Malaria Blood Smear,Coartem
+Njeri Cheruiyot,female,50,Anemia,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Odhiambo Otieno,male,56,Arthritis,nausea,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Kariuki,female,25,No significant history,skin rash,None,migraine,Neurological Exam,Ibuprofen
+Atieno Cheruiyot,female,62,Hypertension,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",osteoporosis,Bone Density Test,Calcium tablets
+Mutiso Cheruiyot,female,6,Hypertension,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",anemia,Complete Blood Count,Iron supplements
+Mutiso Wambui,female,75,No significant history,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Odhiambo Kariuki,female,66,Arthritis,dizziness,None,hypertension,Blood Pressure Test,Amlodipine
+Atieno Wambui,male,56,Arthritis,diarrhea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Mutua,male,55,Asthma,abdominal pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Kariuki,female,55,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Ndungu,male,54,Hypertension,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Kibet,female,7,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",anemia,Complete Blood Count,Iron supplements
+Kipchoge Ndungu,male,20,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",migraine,Neurological Exam,Ibuprofen
+Kamau Kariuki,female,60,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Achieng Wambui,female,4,Asthma,dizziness,None,cold,Throat Swab,Antihistamines
+Kamau Cheruiyot,female,27,None,vomiting,None,anemia,Complete Blood Count,Iron supplements
+Mwangi Mbugua,female,1,Asthma,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",measles,None,None
+Njeri Ndungu,male,31,Asthma,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Chebet Otieno,male,54,Arthritis,vomiting,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Ochieng,male,53,Diabetes,abdominal pain,None,hypertension,Blood Pressure Test,Amlodipine
+Chebet Kibet,male,75,Arthritis,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Kamau Mutua,female,37,Malaria history,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Mwangi Mbugua,male,15,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Kamau Otieno,male,69,None,sore throat,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Achieng Kariuki,male,26,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Kamau Cheruiyot,male,75,None,skin rash,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Mutua,male,31,Arthritis,nausea,None,flu,Influenza Test,Paracetamol
+Mwangi Otieno,female,56,Asthma,loss of appetite,None,diabetes,Blood Sugar Test,Metformin
+Mutiso Kimani,female,12,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",cold,Throat Swab,Antihistamines
+Njeri Otieno,male,3,Malaria history,loss of appetite,None,asthma,Pulmonary Function Test,Salbutamol
+Kamau Cheruiyot,male,27,Anemia,loss of appetite,None,typhoid,Widal Test,Ciprofloxacin
+Njeri Wambui,male,48,Anemia,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Achieng Mutua,female,20,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",migraine,Neurological Exam,Ibuprofen
+Odhiambo Ochieng,female,25,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Mutua,female,25,Anemia,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Kipchoge Mutua,female,24,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Atieno Otieno,female,58,Malaria history,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Wambui,male,48,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Achieng Ndungu,female,37,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",anemia,Complete Blood Count,Iron supplements
+Mwangi Wambui,female,17,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Odhiambo Mutua,male,18,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",malaria,Malaria Blood Smear,Coartem
+Kipchoge Otieno,female,45,Arthritis,abdominal pain,None,malaria,Malaria Blood Smear,Coartem
+Kamau Cheruiyot,male,29,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Wanjiku Ochieng,female,26,No significant history,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Achieng Otieno,male,70,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",prostate issues,PSA Test,Tamsulosin
+Odhiambo Kibet,female,54,Asthma,skin rash,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Njeri Ochieng,male,28,Asthma,skin rash,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Kibet,male,2,Arthritis,vomiting,None,asthma,Pulmonary Function Test,Salbutamol
+Kipchoge Kibet,male,28,None,fever,"Have you experienced chills or sweating?, Have you traveled recently?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Mutua,female,59,No significant history,muscle pain,None,diabetes,Blood Sugar Test,Metformin
+Njeri Ndungu,male,15,Arthritis,muscle pain,None,flu,Influenza Test,Paracetamol
+Atieno Ndungu,male,75,No significant history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Kariuki,male,7,Hypertension,fever,"Have you experienced chills or sweating?, Have you traveled recently?",asthma,Pulmonary Function Test,Salbutamol
+Njeri Wambui,male,19,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Kipchoge Ochieng,male,63,No significant history,sore throat,None,prostate issues,PSA Test,Tamsulosin
+Chebet Mutua,female,37,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",migraine,Neurological Exam,Ibuprofen
+Kipchoge Kibet,female,77,Asthma,sore throat,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Cheruiyot,male,42,None,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Kimani,male,32,Malaria history,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Atieno Ndungu,female,72,Hypertension,nausea,None,hypertension,Blood Pressure Test,Amlodipine
+Mutiso Ochieng,female,61,None,diarrhea,None,diabetes,Blood Sugar Test,Metformin
+Atieno Mutua,male,58,None,diarrhea,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Cheruiyot,female,73,Asthma,muscle pain,None,hypertension,Blood Pressure Test,Amlodipine
+Njeri Cheruiyot,female,15,Arthritis,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Atieno Otieno,male,51,None,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Atieno Otieno,female,61,No significant history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Chebet Kariuki,male,23,Malaria history,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",migraine,Neurological Exam,Ibuprofen
+Mwangi Ochieng,female,8,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",chickenpox,None,None
+Njeri Wambui,female,36,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",anemia,Complete Blood Count,Iron supplements
+Wanjiku Ndungu,male,71,No significant history,dizziness,None,prostate issues,PSA Test,Tamsulosin
+Chebet Otieno,male,36,Diabetes,diarrhea,None,typhoid,Widal Test,Ciprofloxacin
+Njeri Cheruiyot,male,34,Malaria history,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Ndungu,male,57,Arthritis,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Achieng Kibet,female,72,Arthritis,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Kimani,male,34,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",flu,Influenza Test,Paracetamol
+Atieno Mutua,male,30,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",flu,Influenza Test,Paracetamol
+Odhiambo Wambui,female,45,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Achieng Kibet,female,24,Diabetes,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Wanjiku Cheruiyot,female,52,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",osteoporosis,Bone Density Test,Calcium tablets
+Njeri Kimani,male,17,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",flu,Influenza Test,Paracetamol
+Mutiso Wambui,male,34,Malaria history,vomiting,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Otieno,male,53,None,abdominal pain,None,hypertension,Blood Pressure Test,Amlodipine
+Atieno Kariuki,male,58,Malaria history,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Chebet Ochieng,female,45,Hypertension,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Wambui,female,75,Asthma,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Chebet Kariuki,female,30,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Kipchoge Mutua,female,77,Diabetes,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",diabetes,Blood Sugar Test,Metformin
+Chebet Mbugua,female,68,Malaria history,nausea,None,diabetes,Blood Sugar Test,Metformin
+Atieno Kimani,male,34,Anemia,loss of appetite,None,flu,Influenza Test,Paracetamol
+Chebet Wambui,female,80,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Mutua,male,7,Malaria history,shortness of breath,None,chickenpox,None,None
+Achieng Ndungu,female,25,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",migraine,Neurological Exam,Ibuprofen
+Mutiso Kariuki,male,69,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",prostate issues,PSA Test,Tamsulosin
+Mutiso Kibet,male,59,Malaria history,vomiting,None,diabetes,Blood Sugar Test,Metformin
+Chebet Cheruiyot,male,28,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Mwangi Kariuki,female,60,None,abdominal pain,None,diabetes,Blood Sugar Test,Metformin
+Odhiambo Kibet,male,31,Hypertension,loss of appetite,None,migraine,Neurological Exam,Ibuprofen
+Achieng Cheruiyot,male,75,None,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",hypertension,Blood Pressure Test,Amlodipine
+Mutiso Wambui,female,0,No significant history,sore throat,None,measles,None,None
+Achieng Cheruiyot,female,42,Hypertension,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Chebet Otieno,male,59,Arthritis,loss of appetite,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Mbugua,male,54,None,shortness of breath,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Wambui,female,49,Diabetes,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Chebet Ochieng,female,22,No significant history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",typhoid,Widal Test,Ciprofloxacin
+Chebet Wambui,female,11,Hypertension,fever,"Have you experienced chills or sweating?, Have you traveled recently?",measles,None,None
+Mutiso Kimani,male,39,Arthritis,abdominal pain,None,migraine,Neurological Exam,Ibuprofen
+Achieng Ochieng,male,40,Anemia,sore throat,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Kibet,female,29,No significant history,vomiting,None,typhoid,Widal Test,Ciprofloxacin
+Wanjiku Mbugua,male,3,Diabetes,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",asthma,Pulmonary Function Test,Salbutamol
+Odhiambo Kibet,female,56,None,diarrhea,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Mutua,male,39,Asthma,abdominal pain,None,migraine,Neurological Exam,Ibuprofen
+Mwangi Wambui,female,19,None,skin rash,None,anemia,Complete Blood Count,Iron supplements
+Achieng Mutua,female,20,No significant history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Achieng Otieno,male,63,Hypertension,diarrhea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Kipchoge Kimani,male,13,None,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",malaria,Malaria Blood Smear,Coartem
+Mutiso Wambui,female,70,Asthma,vomiting,None,hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Wambui,female,10,Hypertension,vomiting,None,cold,Throat Swab,Antihistamines
+Mwangi Wambui,female,55,Arthritis,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",hypertension,Blood Pressure Test,Amlodipine
+Kamau Mbugua,male,74,Anemia,fever,"Have you experienced chills or sweating?, Have you traveled recently?",prostate issues,PSA Test,Tamsulosin
+Wanjiku Mutua,male,70,Asthma,abdominal pain,None,prostate issues,PSA Test,Tamsulosin
+Achieng Ochieng,male,69,Anemia,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kimani,female,37,Asthma,fever,"Have you experienced chills or sweating?, Have you traveled recently?",migraine,Neurological Exam,Ibuprofen
+Mwangi Kariuki,male,26,Hypertension,loss of appetite,None,flu,Influenza Test,Paracetamol
+Wanjiku Mutua,female,8,Arthritis,muscle pain,None,cold,Throat Swab,Antihistamines
+Njeri Cheruiyot,female,60,Diabetes,shortness of breath,None,osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Kimani,male,35,No significant history,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",typhoid,Widal Test,Ciprofloxacin
+Njeri Ndungu,male,39,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",flu,Influenza Test,Paracetamol
+Achieng Otieno,male,52,Asthma,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Ndungu,female,50,None,nausea,None,hypertension,Blood Pressure Test,Amlodipine
+Mwangi Otieno,female,2,No significant history,nausea,None,measles,None,None
+Atieno Kariuki,female,23,Anemia,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Odhiambo Mbugua,female,74,Anemia,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Kamau Mbugua,female,35,Arthritis,sore throat,None,typhoid,Widal Test,Ciprofloxacin
+Chebet Kimani,female,49,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",migraine,Neurological Exam,Ibuprofen
+Mwangi Kimani,female,64,Diabetes,loss of appetite,None,osteoporosis,Bone Density Test,Calcium tablets
+Kipchoge Ndungu,female,27,Diabetes,sore throat,None,anemia,Complete Blood Count,Iron supplements
+Kamau Otieno,male,72,Malaria history,cough,"Is the cough dry or productive?, Have you had any chest pain?",hypertension,Blood Pressure Test,Amlodipine
+Atieno Mutua,male,43,Malaria history,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Kibet,male,5,Malaria history,nausea,None,measles,None,None
+Atieno Kariuki,female,69,Anemia,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",osteoporosis,Bone Density Test,Calcium tablets
+Mutiso Wambui,female,49,None,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",malaria,Malaria Blood Smear,Coartem
+Odhiambo Kibet,male,59,No significant history,shortness of breath,None,prostate issues,PSA Test,Tamsulosin
+Odhiambo Ochieng,male,35,Anemia,muscle pain,None,migraine,Neurological Exam,Ibuprofen
+Atieno Ndungu,male,32,Asthma,dizziness,None,malaria,Malaria Blood Smear,Coartem
+Atieno Cheruiyot,male,29,Diabetes,cough,"Is the cough dry or productive?, Have you had any chest pain?",flu,Influenza Test,Paracetamol
+Chebet Kariuki,female,54,Malaria history,nausea,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Wanjiku Wambui,male,10,Malaria history,dizziness,None,asthma,Pulmonary Function Test,Salbutamol
+Njeri Cheruiyot,female,71,Asthma,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Cheruiyot,female,23,Arthritis,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Achieng Kimani,male,78,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",prostate issues,PSA Test,Tamsulosin
+Mutiso Mutua,female,55,Diabetes,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Atieno Ndungu,male,80,Asthma,skin rash,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Achieng Mbugua,male,14,Anemia,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Achieng Ochieng,male,66,Diabetes,skin rash,None,prostate issues,PSA Test,Tamsulosin
+Mutiso Ochieng,female,79,None,cough,"Is the cough dry or productive?, Have you had any chest pain?",osteoporosis,Bone Density Test,Calcium tablets
+Mwangi Kariuki,male,19,Asthma,shortness of breath,None,malaria,Malaria Blood Smear,Coartem
+Mwangi Wambui,male,78,Hypertension,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",hypertension,Blood Pressure Test,Amlodipine
+Wanjiku Ochieng,female,7,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",measles,None,None
+Kipchoge Ochieng,male,34,No significant history,diarrhea,None,migraine,Neurological Exam,Ibuprofen
+Achieng Kimani,male,16,Anemia,skin rash,None,flu,Influenza Test,Paracetamol
+Mwangi Ochieng,male,0,Malaria history,shortness of breath,None,chickenpox,None,None
+Mwangi Cheruiyot,female,35,No significant history,shortness of breath,None,migraine,Neurological Exam,Ibuprofen
+Njeri Ndungu,female,73,Hypertension,muscle pain,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mutiso Otieno,male,14,Malaria history,loss of appetite,None,malaria,Malaria Blood Smear,Coartem
+Wanjiku Ndungu,female,46,Hypertension,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Kimani,male,71,None,loss of appetite,None,arthritis,Rheumatoid Factor Test,Diclofenac
+Mwangi Wambui,female,66,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",osteoporosis,Bone Density Test,Calcium tablets
+Wanjiku Ndungu,female,0,Arthritis,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",anemia,Complete Blood Count,Iron supplements
+Njeri Mutua,female,54,Malaria history,headache,"How long has the headache been persisting?, What degree of pain do you feel on a scale of 1 to 10?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Kibet,female,32,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Atieno Mutua,female,43,None,cough,"Is the cough dry or productive?, Have you had any chest pain?",typhoid,Widal Test,Ciprofloxacin
+Chebet Kimani,male,23,Arthritis,dizziness,None,migraine,Neurological Exam,Ibuprofen
+Odhiambo Mbugua,male,55,Arthritis,joint pain,"Is the pain worse in the morning?, Do you have any swelling or stiffness?",prostate issues,PSA Test,Tamsulosin
+Kipchoge Ochieng,male,78,Arthritis,loss of appetite,None,hypertension,Blood Pressure Test,Amlodipine
+Odhiambo Mbugua,male,43,Arthritis,cough,"Is the cough dry or productive?, Have you had any chest pain?",typhoid,Widal Test,Ciprofloxacin
+Mutiso Ndungu,male,41,Asthma,vomiting,None,migraine,Neurological Exam,Ibuprofen
+Mutiso Mutua,female,10,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",cold,Throat Swab,Antihistamines
+Njeri Cheruiyot,female,46,No significant history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",anemia,Complete Blood Count,Iron supplements
+Wanjiku Otieno,female,65,Malaria history,fever,"Have you experienced chills or sweating?, Have you traveled recently?",arthritis,Rheumatoid Factor Test,Diclofenac
+Kamau Cheruiyot,female,10,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",measles,None,None
+Njeri Cheruiyot,female,70,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",osteoporosis,Bone Density Test,Calcium tablets
+Chebet Ndungu,female,39,Hypertension,dizziness,None,typhoid,Widal Test,Ciprofloxacin
+Atieno Wambui,female,23,Diabetes,dizziness,None,malaria,Malaria Blood Smear,Coartem
+Achieng Kariuki,male,41,None,shortness of breath,None,typhoid,Widal Test,Ciprofloxacin
+Kipchoge Ndungu,male,26,Hypertension,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Mwangi Kariuki,female,28,Diabetes,sore throat,None,typhoid,Widal Test,Ciprofloxacin
+Odhiambo Cheruiyot,male,34,Asthma,cough,"Is the cough dry or productive?, Have you had any chest pain?",malaria,Malaria Blood Smear,Coartem
+Mutiso Otieno,female,49,Hypertension,sore throat,None,malaria,Malaria Blood Smear,Coartem
+Achieng Mutua,male,34,Arthritis,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",typhoid,Widal Test,Ciprofloxacin
+Wanjiku Kariuki,female,24,Malaria history,abdominal pain,None,anemia,Complete Blood Count,Iron supplements
+Chebet Mutua,male,14,Malaria history,shortness of breath,None,flu,Influenza Test,Paracetamol
+Atieno Kariuki,female,80,Malaria history,dizziness,None,diabetes,Blood Sugar Test,Metformin
+Mwangi Ochieng,male,75,Diabetes,loss of appetite,None,prostate issues,PSA Test,Tamsulosin
+Mwangi Mutua,female,37,Anemia,chest pain,"Do you feel pain while breathing?, Is the pain radiating to the arms or back?",anemia,Complete Blood Count,Iron supplements
+Odhiambo Kibet,female,56,Hypertension,muscle pain,None,osteoporosis,Bone Density Test,Calcium tablets
+Chebet Mbugua,male,52,Anemia,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",arthritis,Rheumatoid Factor Test,Diclofenac
+Atieno Kariuki,female,62,Diabetes,fever,"Have you experienced chills or sweating?, Have you traveled recently?",hypertension,Blood Pressure Test,Amlodipine
+Kipchoge Cheruiyot,female,60,Hypertension,fatigue,"Do you get enough sleep?, Have you experienced unexplained weight loss?",diabetes,Blood Sugar Test,Metformin
+Mutiso Ochieng,male,23,No significant history,abdominal pain,None,typhoid,Widal Test,Ciprofloxacin
+Kamau Cheruiyot,male,6,Hypertension,cough,"Is the cough dry or productive?, Have you had any chest pain?",cold,Throat Swab,Antihistamines
+Achieng Mbugua,male,39,Anemia,dizziness,None,typhoid,Widal Test,Ciprofloxacin
